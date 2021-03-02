@@ -1,6 +1,6 @@
 <?php
 
-namespace Poyii\Informix\Schema;
+namespace IsocIl\LaravelIfx\Poyii\Informix\Schema;
 
 use Illuminate\Database\Schema\Builder;
 
