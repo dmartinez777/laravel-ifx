@@ -1,6 +1,6 @@
 <?php
 
-namespace Poyii\Informix;
+namespace IsocIl\LaravelIfx\Poyii\Informix;
 
 /*
  * Created by PhpStorm.
