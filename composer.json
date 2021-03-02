@@ -28,13 +28,13 @@
   "extra": {
     "laravel": {
       "providers": [
-        "IsocIl\\LaravelIfx\\Poyii\\Informix\\InformixDBServiceProvider"
+        "IsocIl\\LaravelIfx\\Poyii\\Poyii\\Informix\\InformixDBServiceProvider"
       ]
     }
   },
   "autoload": {
     "psr-4": {
-      "IsocIl\\LaravelIfx\\Poyii\\": "src/"
+      "IsocIl\\LaravelIfx\\Poyii\\Poyii\\Informix\\": "src/"
     }
   },
   "minimum-stability": "dev",

@@ -1,6 +1,6 @@
 <?php
 
-namespace IsocIl\LaravelIfx\Poyii\Informix\Query\Processors;
+namespace IsocIl\LaravelIfx\Poyii\Poyii\Informix\Query\Processors;
 
 use Illuminate\Database\Query\Builder;
 use Illuminate\Database\Query\Processors\Processor;

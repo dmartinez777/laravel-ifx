@@ -6,7 +6,7 @@
  * Time: 10:40.
  */
 
-namespace IsocIl\LaravelIfx\Poyii\Informix;
+namespace IsocIl\LaravelIfx\Poyii\Poyii\Informix;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\ServiceProvider;

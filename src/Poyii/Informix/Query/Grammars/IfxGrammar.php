@@ -1,6 +1,6 @@
 <?php
 
-namespace IsocIl\LaravelIfx\Poyii\Informix\Query\Grammars;
+namespace IsocIl\LaravelIfx\Poyii\Poyii\Informix\Query\Grammars;
 
 use Illuminate\Database\Query\Builder;
 use Illuminate\Database\Query\Grammars\Grammar;

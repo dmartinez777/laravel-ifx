@@ -1,6 +1,6 @@
 <?php
 
-namespace IsocIl\LaravelIfx\Poyii\Informix\Connectors;
+namespace IsocIl\LaravelIfx\Poyii\Poyii\Informix\Connectors;
 
 use Exception;
 use Illuminate\Contracts\Encryption\Encrypter;
