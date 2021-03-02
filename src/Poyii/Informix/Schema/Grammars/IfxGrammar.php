@@ -6,7 +6,7 @@
  * Time: 14:38.
  */
 
-namespace Poyii\Informix\Schema\Grammars;
+namespace IsocIl\LaravelIfx\Poyii\Informix\Schema\Grammars;
 
 use Illuminate\Database\Connection;
 use Illuminate\Database\Schema\Blueprint;
